@@ -67,7 +67,7 @@
 ## 📊 Architecture Diagram
 
 <p align="center">
-<img src="./NoteAssiss-AI_Architecture.png" width="700" alt="NoteAssist AI architecture diagram" />
+<img src="./NoteAssiss-AI_Architecture - Copy (2).png" width="700" alt="NoteAssist AI architecture diagram" />
 </p>
 
 ---
@@ -234,3 +234,4 @@ Shahriyar Khan — Maintainer & Architect
 ---
 
 ⭐ Star the repo if you find it useful
+
